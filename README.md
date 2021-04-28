@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jorge-HCB
-- 👀 I’m interested in games and animes
-- 🌱 I’m currently learning i don't now
-- 💞️ I’m looking to collaborate on ... gamedev
+- 👋 Hi, I’m Jorge Henrique Cavalcante Barreto
+- 👀 I’m interested in games
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
 
 <!---
