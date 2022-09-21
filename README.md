@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jorge Henrique Cavalcante Barreto
+- 👋 Hi, I’m Jorge Henrique
 
 <!---
 Jorge-HCB/Jorge-HCB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
