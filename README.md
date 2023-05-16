@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://sigaa.uern.br/shared/verFoto?idFoto=2061017&key=667605d280ae7f9c3f3bbc7a73befc63" width="100"/>
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
 
 <div id="badges" align="center">
