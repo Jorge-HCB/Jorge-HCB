@@ -13,7 +13,7 @@
 
 ### About Me :
 I am a Computer Science studant from Brazil.
-- :seedling: Learning HTML5 and CSS3.
+- :seedling: Learning C#.
 - :zap: In my free time, I read books and play videogames.
 
 ---
