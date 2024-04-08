@@ -12,7 +12,7 @@
 ---
 
 ### About Me :
-I am a Computer Science studant from Brazil.
+I'm a Computer Science student from Brazil.
 - :seedling: Learning C#.
 - :zap: In my free time, I read books and play videogames.
 
